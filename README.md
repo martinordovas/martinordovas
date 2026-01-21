@@ -1,7 +1,7 @@
 # 👨‍💻 Hello, I'm Martin Ordovas
 ### Junior Multi-platform Application Developer (DAM) 🚀
 
-> "I love backend web development, with PHP and Spring Framework,"
+> "I love backend web development, with PHP and Spring Framework."
 
 ### > who_am_i
 - 🎓 **Currently**: Finishing Multi-platform Application Development (DAM).
