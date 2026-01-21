@@ -3,7 +3,7 @@
 
 > "Transforming coffee into clean, efficient code for Android, Desktop, and Web."
 
-### > whoami
+### > who_am_i
 - 🎓 **Currently**: Finishing Multi-platform Application Development (DAM).
 - 🔭 **Working on**: Improving my portfolio and Java-based backend services.
 - 🌱 **Learning**: Advanced Android Development and Spring Boot.
@@ -22,8 +22,8 @@
 ### > github_activity
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=martinordovas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinordovas&layout=compact&theme=tokyonight&langs_count=6" />
 </p>
 
 ### > connect_with_me
