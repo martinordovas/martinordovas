@@ -1,7 +1,7 @@
 # 👨‍💻 Hello, I'm Martin Ordovas
 ### Junior Multi-platform Application Developer (DAM) 🚀
 
-> "Transforming coffee into clean, efficient code for Android, Desktop, and Web."
+> "I love backend web development, with PHP and Spring Framework,"
 
 ### > who_am_i
 - 🎓 **Currently**: Finishing Multi-platform Application Development (DAM).
